@@ -5,6 +5,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 /**
  * Created by ER27 on 2016-04-14!
+ * Modified by ER27 on 2016-05-18!
  */
 public class smokeTest {
 
