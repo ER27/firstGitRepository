@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="DemoSuite" verbose="1" >
+    <test name="fistTestNG" >
+        <classes>
+            <class name="smokeTest" />
+        </classes>
+    </test>
+</suite>
